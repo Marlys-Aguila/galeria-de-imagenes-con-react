@@ -1,0 +1,9 @@
+.card-body {
+    background-color: #544569 !important;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    opacity: 0.9;
+    transition: 0.2s;
+}
